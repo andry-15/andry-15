@@ -1,13 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Andry Aragón
-=====================================================================================================================================
-
-Aprendiz de desarrollo de software | Desarrollo web
----------------------------------------------------
-
+# 💫 About Me:
 I am a Software Analysis and Development (ADSO) student at SENA, passionate about technology, web design, and creating digital solutions. I am currently strengthening my skills in HTML, CSS, JavaScript, Tailwind CSS, and MySQL.
 
-* 🌍  I'm based in Garzón, Huila, Colombia
-* 🖥️  See my portfolio at [Mi portafolio](http://git@github.com:andry-15/portafolio.git)
-* ✉️  You can contact me at [andryaragon2@gmail.com](mailto:andryaragon2@gmail.com)
-* 🚀  I'm currently working on [Mi proyecto web de gestion de inasistencias.](http://git@github.com:M-DelMar/inasistencias-tailwind.git)
-* 🧠  I'm currently learning JavaScript, Tailwind CSS and MySQL
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=andry-15&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=andry-15&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=andry-15&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=andry-15&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
